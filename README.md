@@ -92,3 +92,9 @@ The folder `/simulations/` contains the complete **Cisco Packet Tracer** network
 2. VLAN routing and encapsulation on the Cisco Catalyst C8200L router.
 3. DHCP scopes configured dynamically per subnet.
 4. Wireless Access Point configurations matching the Ubiquiti layout.
+
+
+---
+
+## 💭 Course Reflection
+Designing network topologies and subnetting IP addresses using Cisco Packet Tracer taught me how network components interact. This understanding of ports, routing, and gateways is essential when setting up secure cloud data networks and firewalls.
